@@ -11,6 +11,11 @@ local retval --[[ table ]] =
 	)
 ```
 
+```c
+// Could be wrong
+void GET_PLAYER_IDENTIFIERS(char* srcPlayer)
+```
+
 ## Information & Usage
 srcPlayer - The player from which to pull identifiers
 
